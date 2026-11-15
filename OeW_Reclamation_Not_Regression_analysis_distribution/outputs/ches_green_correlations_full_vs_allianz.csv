@@ -1,0 +1,15 @@
+sample,x,y,n,pearson_r,p_value
+Full CHES,green_climate,green_environment,278,0.8601310079556954,1.1286174740599241e-82
+Full CHES,climate_change_salience,environment_salience,278,0.7659378998723403,7.016251533725215e-55
+Full CHES,green_position,galtan,279,-0.8934649277981221,2.7333497030484915e-98
+Full CHES,green_position,lrgen,279,-0.7752147528898934,3.3958537948584205e-57
+Full CHES,green_salience,galtan,279,-0.6817519469549177,1.7619477449001366e-39
+Full CHES,green_salience,lrgen,279,-0.5335616546550016,6.265000142233267e-22
+Full CHES,galtan,lrgen,279,0.7696491962604479,6.550936776755764e-56
+Allianz countries,green_climate,green_environment,50,0.9378636136731561,1.0514712222927855e-23
+Allianz countries,climate_change_salience,environment_salience,50,0.7019337854741394,1.3500544592528073e-8
+Allianz countries,green_position,galtan,50,-0.9297333619030062,1.833421407911318e-22
+Allianz countries,green_position,lrgen,50,-0.8990160949661049,7.762318545359764e-19
+Allianz countries,green_salience,galtan,50,-0.673638493853943,8.267477442526871e-8
+Allianz countries,green_salience,lrgen,50,-0.6466586391227253,3.9099033489543874e-7
+Allianz countries,galtan,lrgen,50,0.9271868030525992,4.185018681362717e-22
